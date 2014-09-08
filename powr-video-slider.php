@@ -6,7 +6,7 @@
     /*
     Plugin Name: POWr Video Slider
     Plugin URI: http://www.powr.io
-    Description: Showcase your Youtube and Vimeo videos with a beautiful video slider. Add the widget to your theme, or create a Video Slider on ANY page or post by using the shortcode [powr-video-slider]. Then, simply visit your site and click the settings icon to customize your Video Slider right in the page. Many more plugins & tutorials at POWr.io.
+    Description: Showcase Youtube and Vimeo videos in a beautiful custom slider. Add the widget to your theme, or create a Video Slider on ANY page or post by using the shortcode [powr-video-slider]. Then, simply visit your site and click the settings icon to customize your Video Slider right in the page. Many more plugins & tutorials at POWr.io.
     Author: POWr.io
     Version: 1.0
     Author URI: http://www.powr.io
@@ -24,13 +24,13 @@
         function generate_powr_instance() {
           $alphabet = 'abcdefghijklmnopqrstuwxyzABCDEFGHIJKLMNOPQRSTUWXYZ0123456789';
           $pass = array(); //remember to declare $pass as an array
-          $alphaLength = strlen($alphabet) - 1; //put the length -1 in cache
-          for ($i = 0; $i < 10; $i++) { //Add 10 random characters
+          $alphaLength = strlen($alphabet) - 1; // Put the length -1 in cache.
+          for ($i = 0; $i < 10; $i++) { // Add 10 random characters.
             $n = rand(0, $alphaLength);
             $pass[] = $alphabet[$n];
           }
-          $pass_string = implode($pass) . time(); //Add the current time to avoid duplicate keys
-          return $pass_string; //turn the array into a string
+          $pass_string = implode($pass) . time(); // Add the current time to avoid duplicate keys.
+          return $pass_string; // Turn the array into a string.
         }
     }
     //Adds script to the header if necessary
@@ -42,7 +42,7 @@
           if(powr_local_mode()){//Determine JS url:
             $js_url = '//localhost:3000/powr_local.js';
           }else{
-            $js_url = '//s3-us-west-1.amazonaws.com/powr/powr.min.js';
+            $js_url = '//powr.io/powr.js';
           }
           ?>
           <script>
