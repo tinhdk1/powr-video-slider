@@ -5,7 +5,7 @@ Donate link: http://powr.io/
 Tags: Video slider, video slideshow, video gallery, free video slider, free video slideshow, free video gallery, youtube slider, vimeo slider, youtube gallery, vimeo gallery, youtube slideshow, vimeo slideshow, custom video slider, custom video playlist, video widget, video plugin, mobile responsive
 Requires at least: 3.0
 Tested up to: 4.0
-Stable tag: 1.0
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -74,7 +74,16 @@ Want a more detailed tutorial? Visit [How to add Video Slider to your Wordpress 
 = 1.0 =
 First released version.
 
+= 1.1 =
+Improved SSL Support
+
+
 
 == Changelog ==
 = 1.0 =
 * First released version
+
+= 1.1 =
+* Improved SSL Support
+
+
