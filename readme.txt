@@ -23,7 +23,7 @@ First, download, install, and activate POWr Video Slider. Then drop the widget a
 = <a href='http://www.powr.io/tutorials/how-to-add-video-slider-plugin-to-your-wordpress-site'>2 MINUTE INSTALL</a> =
 <br>
 = Free Features =
-* Easily add unlimited videos from YouTube and Vimeo.
+* Easily add any public videos from YouTube and Vimeo.
 * Custom play options for single play, autoplay, and loop.
 * Choose from expert-designed templates, or take control with custom colors, styles, buttons, and more.
 * Create and add custom captions and video thumbnails.
@@ -36,6 +36,7 @@ First, download, install, and activate POWr Video Slider. Then drop the widget a
 * Enable plugin analytics to measure visitors and page views
 * Receive premium POWr support
 * Support the development of other great plugins
+
 
 
 == Installation ==
