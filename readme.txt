@@ -12,7 +12,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 A simple slideshow for YouTube and Vimeo videos!
 
 == Description ==
-[youtube https://youtu.be/An3cyNs0XFo] A simple slideshow for YouTube and Vimeo videos!
+[youtube https://www.youtube.com/watch?v=An3cyNs0XFo] A simple slideshow for YouTube and Vimeo videos!
 <br>
 <br>
 POWr Video Slider is a free cloud-based plugin you can edit in your live web page.  Create a POWr account to access the entire <a href='https://www.powr.io/plugins'>plugin library</a>.
