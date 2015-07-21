@@ -2,7 +2,7 @@
 ===POWr Video Slider===
 Contributors: powr
 Donate link: http://powr.io/
-Tags: gallery slider, horizontal slider, image slider, photo slider, responsive slider, simple slider, slideshow, vertical slider, video slider, youtube slider, vimeo slider, best slider plugin, carousel slider, content slider, content slideshow, flex slider, image slideshow, javascript slider, javascript slideshow, jquery slider, jquery slideshow, banner slider, event slider, multi-slider widget, multi-slider plugin, mobile responsive, multimedia, responsive design, easy, personalize, ecommerce, customize, optimize, sidebar, drag and drop, WYSIWYG, mobile responsive, product slideshow, art gallery, upload picture, photo upload, file upload, designer tools, graphic artist, promotions, events, rotating banner, free, product demonstration, demo, testimonials, use case, teacher tool,
+Tags: gallery slider, horizontal slider, image slider, photo slider, responsive slider, simple slider, slideshow, vertical slider, video slider, youtube slider, vimeo slider, best slider plugin, carousel slider, content slider, content slideshow, paypal, payment, recurring payment, subscription, buy, sell, product, donation, flex slider, image slideshow, javascript slider, javascript slideshow, jquery slider, jquery slideshow, banner slider, event slider, multi-slider widget, multi-slider plugin, mobile responsive, multimedia, responsive design, easy, personalize, ecommerce, customize, optimize, sidebar, drag and drop, WYSIWYG, mobile responsive, product slideshow, art gallery, upload picture, photo upload, file upload, designer tools, graphic artist, promotions, events, rotating banner, free, product demonstration, demo, testimonials, use case, teacher tool,
 Requires at least: 3.0
 Tested up to: 4.2
 Stable tag: 1.4
@@ -24,16 +24,20 @@ First, download, install, and activate POWr Video Slider. Then drop the widget a
 <br>
 = Free Features =
 * Easily add any public videos from YouTube and Vimeo.
-* Custom play options for single play, autoplay, and loop.
-* Choose from expert-designed templates, or take control with custom colors, styles, buttons, and more.
+* Use expert templates or customize from scratch. 
+* Adjust fonts, colors, borders, backgrounds, and more.
+* Accept payments, donations, and subscriptions through PayPal.
 * Create and add custom captions and video thumbnails.
 * Built-in support for text in any language.
 * Mobile responsive design looks great on any device.
 <br>
 
-= Upgrade ($3.50)/mo and: =
+= Upgrade ($3.99)/mo and: =
 * Eliminate all POWr logos and watermarks
-* Advanced Slide Options - set display time for slides, and choose to enable or disable Right Click on images
+* Set display time for slides. 
+* Enable auto-play for videos.
+* Disable 'right click' to protect images.
+* Adjust size of scroll buttons.
 * Enable plugin analytics to measure visitors and page views
 * Receive premium POWr support
 * Support the development of other great plugins
